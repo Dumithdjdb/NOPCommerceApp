@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a485403-e0b2-4650-a608-17ab08545544" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/browserhandling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testCases/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserhandling/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/browserhandling/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/report_Chrome.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/report_Chrome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/report_Firefox.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/report_Firefox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases/test_AddCustomer.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_AddCustomer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +34,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testCases" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dumit\PycharmProjects\NOPCommerceApp\testCases" />
+      <recent name="C:\Users\dumit\PycharmProjects\NOPCommerceApp\browserhandling" />
       <recent name="C:\Users\dumit\PycharmProjects\NOPCommerceApp\drivers" />
     </key>
   </component>
@@ -76,9 +79,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604935905437" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1604936566101">
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1605019469994">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1604936566101" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605019469994" />
   </component>
 </project>
