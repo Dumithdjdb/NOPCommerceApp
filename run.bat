@@ -1,1 +1,1 @@
-pytest -s -v -m "sanity" --html=./reports/report_Chrome.html testCa
+pytest -s -v -m "sanity" --html=./reports/report_Chrome.html testCases
